@@ -85,8 +85,9 @@ This implementation demonstrates **payment integration fundamentals** that trans
 **Core concepts remain identical:**
 
 // Same 2-step flow across all gateways:
-   1)Create Order/Payment Intent (backend)
-   2)Capture/Confirm Payment (after user approval)
+
+1) Create Order/Payment Intent (backend)
+2) Capture/Confirm Payment (after user approval)
 
 The **architecture, security patterns (CORS, .env), and error handling** demonstrated here apply universally across payment SDKs.
 
