@@ -16,16 +16,6 @@ $12.00 → PayPal → Order: 9HE24829238191009 → CAPTURED
 
 ---
 
-## 🛠️ Tech Stack
-| Layer | Technologies |
-|-------|---------------|
-| **Frontend** | React 18 + Vite + PayPal JS SDK |
-| **Backend** | Node.js + Express (ES Modules) + PayPal Checkout SDK |
-| **Security** | dotenv + CORS |
-| **Quality** | ESLint + dual .gitignore |
-| **Testing** | PayPal Sandbox (USA → India) |
-
----
 
 ## ⚙️ Quick Start
 
